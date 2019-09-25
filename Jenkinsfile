@@ -1,7 +1,7 @@
 node{
 //node('master'){
 
-  //http://JenkinsServerIPAddress:8080/pipeline-syntax/globals#currentBuild
+  //http://54.163.168.70:8080/pipeline-syntax/globals#currentBuild
   //Getting the  env  global varibale values
 
   echo "GitHub BranhName ${env.BRANCH_NAME}"
